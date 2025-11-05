@@ -92,7 +92,8 @@ single-prompted MI chatbots)
 ## 🌐 Connect  
 📧 [mohamed.h.mamdouh@gmail.com](mailto:mohamed.h.mamdouh@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-h-abdelwahab/)  
-🐙 [GitHub](https://github.com/mohamedhany13)
+🐙 [GitHub](https://github.com/mohamedhany13)  
+📚 [Google Scholar](https://scholar.google.ca/citations?hl=en&user=l7hFC2kAAAAJ)
 
 ---
 
