@@ -1,71 +1,75 @@
-# Mohamed Abdelwahab 🌐  
+# Mohamed Abdelwahab 
 **AI Researcher & Engineer | PhD Candidate, University of Toronto**  
-📍 Toronto, ON | [Email](mailto:mohamed.h.mamdouh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-h-abdelwahab/) | [GitHub](https://github.com/yourusername)
+📍 Toronto, ON | [Email](mailto:mohamed.h.mamdouh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-h-abdelwahab/) | [GitHub](https://github.com/mohamedhany13)
 
 ---
 
 ## 🧠 About Me  
 I’m a **PhD candidate in Artificial Intelligence at the University of Toronto**, specializing in **Large Language Model (LLM) explainability and concept probing**.  
-My work explores how LLMs represent abstract human concepts and how these internal mechanisms can be interpreted to make AI systems more transparent, reliable, and safe.  
+My work explores whether LLMs infer abstract concepts that are implied from the input context and whether such concepts influence the models' generation of the output text. This research aims to make LLMs more transparent and safer.
 
-I’ve co-authored research published in **ACL**, **EACL**, **JMIR**, and **IEEE**, and my current projects focus on **agentic workflows**, **retrieval-augmented generation (RAG)**, and **interpretable model behavior**.  
-I’m passionate about **bridging scientific research and real-world AI systems** that align with human reasoning.
+I’ve co-authored research published in **ACL**, **EACL**, **JMIR**, **IEEE**, and **Ecological Informatics**, and my current projects focus on **LLM probing**, **agentic workflows**, and **retrieval-augmented generation (RAG)**.  
+I’m passionate about **bridging scientific research and real-world AI systems.**
 
 ---
 
 ## 🎓 Education  
-**PhD in Computer Engineering (AI & NLP)** — *University of Toronto, Canada* (2022 – Present)  
+**PhD in Computer Engineering** — *University of Toronto, Canada* (Sep 2022 – Present)  
 - Research: Explainability of Large Language Models via probing  
 - Connaught International Scholarship Recipient ($40,000)  
 - Coursework: ML, NLP, Cloud Computing (AWS), Creative NLP Applications  
 
-**MSc in Electronics and Electrical Communications Engineering** — *Cairo University, Egypt* (2019 – 2022)  
+**MSc in Electronics and Electrical Communications Engineering** — *Cairo University, Egypt* (Oct 2019 – Aug 2022)  
 - Thesis: Deep learning–based time series forecasting for precision agriculture  
 
 ---
 
 ## 🔬 Research & Projects  
 
-### 🧭 Canadian Permanent Residence Agentic Consultant *(2025 – Present)*  
-- Developing a **multi-agent conversational system** using RAG and document pipelines to provide IRCC-compliant immigration guidance.  
-- Designed agents for policy retrieval, eligibility analysis, and compliance checking.  
-- **Tech:** LangChain, Chroma, Crawl4AI  
+### Canadian IRCC AI Consultant *(Oct 2025 – Present)*  
+- Developing a **multi-agent conversational system** using RAG and document-processing pipelines to provide IRCC-compliant immigration guidance.  
+- Designing agents for policy retrieval, eligibility analysis, and compliance checking.  
+- **Tech:** LangChain, Chroma, Crawl4AI
+- 🔗 [View Repository](https://github.com/mohamedhany13/Canadian-IRCC-AI-consultant)
 
-### 🧩 Automated Concept Dataset Creation via Agentic Workflow *(PhD project, 2025 – Present)*  
-- Creating an **LLM-driven agentic workflow** for scalable concept dataset generation.  
-- Multiple debating agents justify labeling decisions, moderated by a coordination agent.  
-- **Tech:** LangChain, HuggingFace, Pandas  
+### Automated Concept Dataset Creation via Agentic Workflow *(PhD project, May 2025 – Present)*  
+- Creating an **LLM-driven agentic workflow** for scalable concept dataset generation (e.g., democracy, envy, ambition).  
+- Multiple debating agents justify labeling decisions for textual examples, moderated by a coordination agent.
+- Workflow requires no human in the loop.
+- **Tech:** LangChain, HuggingFace, Pandas
 
-### 🧠 Probing and Tracking Implied Concepts in LLMs *(2023 – Present)*  
+### Probing and Tracking Implied Concepts in LLMs *(PhD research, May 2023 – Present)*  
 - Built probing classifiers to detect concept inference in Llama-3, Gemma-2, and Qwen2.5.  
-- Developed 8K–15K labeled datasets per concept and achieved >80% probe accuracy.  
-- **Tech:** PyTorch, HuggingFace, OpenAI API, Pandas  
+- Created datasets of 8K–15K labeled examples per concept and achieved >80% probe accuracy.
+- Submitted paper under review (ARR 2025).
+- **Tech:** PyTorch, HuggingFace, OpenAI API, Pandas
 
-### 💬 Motivational Interviewing (MI) Adherence Classifier *(2022)*  
-- Fine-tuned GPT-2 and GPT-3 to classify MI adherence, achieving 91% accuracy.  
-- Inspired subsequent research on conversational counseling AI.  
-- **Tech:** HuggingFace, OpenAI API, Weights & Biases  
+### Motivational Interviewing (MI) Adherence Classifier *(Oct 2022 – Dec 2022)*  
+- Fine-tuned GPT-2 and GPT-3 to classify MI adherence, achieving 91% accuracy with GPT-3.  
+- Inspired subsequent research directions in developing MI chatbots.
+- **Tech:** HuggingFace, OpenAI API, Weights & Biases
 
 ---
 
 ## 📚 Selected Publications  
-- **A Fully Generative Motivational Interviewing Counsellor Chatbot for Moving Smokers Towards the Decision to Quit.** *ACL 2025*  
-- **The Impact of ChatGPT Exposure on User Interactions With a Motivational Interviewing Chatbot.** *JMIR Formative Research 2025*  
-- **Generation, Distillation, and Evaluation of Motivational-Interviewing-Style Reflections with a Foundational LLM.** *EACL 2024*  
-- Earlier work: Deep learning-based time series forecasting (*Ecological Informatics, 2023*), AGI position paper (*IEEE AI Conf. 2023*), LTE handover optimization (*IEEE MWSCAS, 2018*)  
+- **A Fully Generative Motivational Interviewing Counsellor Chatbot for Moving Smokers Towards the Decision to Quit.** *ACL 2025* (co-author; conducted preliminary research on using
+single-prompted MI chatbots) 
+- **The Impact of ChatGPT Exposure on User Interactions With a Motivational Interviewing Chatbot.** *JMIR Formative Research 2025* (co-author; contributed to experiment design and execution)
+- **Generation, Distillation, and Evaluation of Motivational-Interviewing-Style Reflections with a Foundational LLM.** *EACL 2024* (co-author; contributed to labeling and prompt design)
+- Earlier work as main author: Deep learning-based time series forecasting (*Ecological Informatics, 2023*), AGI position paper (*IEEE AI Conf. 2023*), LTE handover optimization (*IEEE MWSCAS, 2018*)  
 
 ---
 
-## 💼 Experience  
+## 💼 Work Experience  
 
 **Teaching Assistant** — *University of Toronto* (Jan 2023 – Present)  
-- Supported ML and NLP courses on Transformers, Embeddings, and Prompt Engineering.  
+- Supported ML and NLP courses covering Neural Networks, Transformers, Embeddings, and Prompt Engineering.  
 - Mentored student projects and led tutorials.  
 
 **Analog IC Design Engineer** — *Goodix Cairo & Si-Ware Systems* (Mar 2018 – Jun 2022)  
 - Designed analog circuit blocks and system models in cross-functional teams.  
-- Developed strong analytical and collaborative skills through applied engineering design.  
-
+- Developed strong analytical and collaborative skills through applied engineering design.
+  
 ---
 
 ## 🛠️ Technical Skills  
@@ -79,7 +83,7 @@ I’m passionate about **bridging scientific research and real-world AI systems*
 ## 🌐 Connect  
 📧 [mohamed.h.mamdouh@gmail.com](mailto:mohamed.h.mamdouh@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-h-abdelwahab/)  
-🐙 [GitHub](https://github.com/yourusername)  
+🐙 [GitHub](https://github.com/mohamedhany13)
 
 ---
 
