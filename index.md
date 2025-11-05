@@ -49,14 +49,23 @@ I’m passionate about **bridging scientific research and real-world AI systems.
 - Inspired subsequent research directions in developing MI chatbots.
 - **Tech:** HuggingFace, OpenAI API, Weights & Biases
 
+### Temperature Forecasting using Deep Learning *(MSc Research, Oct 2019 – Aug 2022)*  
+- Built an **LSTM-based encoder–decoder model** with a **seasonal attention mechanism** to forecast daily temperatures one year ahead using prior-year data.  
+- Achieved an **RMSE of 2.64**, outperforming baseline time-series models.  
+- Deployed the trained model in **C++ on a Raspberry Pi Pico** for real-time edge computing applications.  
+- **Tech:** TensorFlow, Pandas  
+
 ---
 
 ## 📚 Selected Publications  
-- **A Fully Generative Motivational Interviewing Counsellor Chatbot for Moving Smokers Towards the Decision to Quit.** *ACL 2025* (co-author; conducted preliminary research on using
+- **A Fully Generative Motivational Interviewing Counsellor Chatbot for Moving Smokers Towards the Decision to Quit.** *ACL 2025*  
+(co-author; conducted preliminary research on using
 single-prompted MI chatbots) 
-- **The Impact of ChatGPT Exposure on User Interactions With a Motivational Interviewing Chatbot.** *JMIR Formative Research 2025* (co-author; contributed to experiment design and execution)
-- **Generation, Distillation, and Evaluation of Motivational-Interviewing-Style Reflections with a Foundational LLM.** *EACL 2024* (co-author; contributed to labeling and prompt design)
-- Earlier work as main author: Deep learning-based time series forecasting (*Ecological Informatics, 2023*), AGI position paper (*IEEE AI Conf. 2023*), LTE handover optimization (*IEEE MWSCAS, 2018*)  
+- **The Impact of ChatGPT Exposure on User Interactions With a Motivational Interviewing Chatbot.** *JMIR Formative Research 2025*  
+(co-author; contributed to experiment design and execution)
+- **Generation, Distillation, and Evaluation of Motivational-Interviewing-Style Reflections with a Foundational LLM.** *EACL 2024*  
+(co-author; contributed to labeling and prompt design)
+- Earlier work as **main author**: Deep learning-based time series forecasting (*Ecological Informatics, 2023*), AGI position paper (*IEEE AI Conf. 2023*), LTE handover optimization (*IEEE MWSCAS, 2018*)  
 
 ---
 
