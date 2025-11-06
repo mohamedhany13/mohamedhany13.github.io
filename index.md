@@ -8,7 +8,7 @@
 I’m a **PhD candidate in Artificial Intelligence at the University of Toronto**, specializing in **Large Language Model (LLM) explainability and concept probing**.  
 My work explores whether LLMs infer abstract concepts that are implied from the input context and whether such concepts influence the models' generation of the output text. This research aims to make LLMs more transparent and safer.
 
-I’ve co-authored research published in **ACL**, **EACL**, **JMIR**, **IEEE**, and **Ecological Informatics**, and my current projects focus on **LLM probing**, **agentic workflows**, and **retrieval-augmented generation (RAG)**.  
+I’ve co-authored research published in **ACL**, **EACL**, **JMIR**, **IEEE**, and **Ecological Informatics**, and my current projects focus on **LLM probing**, **agentic workflows**, **retrieval-augmented generation (RAG)**, and **prompt engineering**.  
 I’m passionate about **bridging scientific research and real-world AI systems.**
 
 ---
@@ -40,7 +40,7 @@ I’m passionate about **bridging scientific research and real-world AI systems.
 
 ### Probing and Tracking Implied Concepts in LLMs *(PhD research, May 2023 – Present)*  
 - Built probing classifiers to detect concept inference in Llama-3, Gemma-2, and Qwen2.5.  
-- Created datasets of 8K–15K labeled examples per concept and achieved >80% probe accuracy.
+- Used LLMs to create datasets of 8K–15K labeled examples per concept, and achieved >80% probe accuracy.
 - Submitted paper under review (ARR 2025).
 - **Tech:** PyTorch, HuggingFace, OpenAI API, Pandas
 
